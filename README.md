@@ -7,5 +7,3 @@
     - Price 
     - Quantity customer ordered
     - Total cost of the purchase
-    
-Video Demo: https://drive.google.com/file/d/18Rn4xasBkMNxlNMiXEgsRn3bY8aMIxJO/view?usp=sharing
